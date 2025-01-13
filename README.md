@@ -1,6 +1,3 @@
-Based on the information available, I've crafted a `README.md` file tailored to your repository, incorporating relevant details and emojis for enhanced engagement.
-
-```markdown
 # 📊 Data Science Practice
 
 Welcome to the **Data Science Practice** repository! 🚀 This repo is a collection of hands-on data science projects and exercises designed to sharpen your skills in data analysis, machine learning, and statistical modeling.
@@ -23,11 +20,12 @@ This repository is a curated set of projects that explore various data science c
 
 ```
 Data-Science-Practice/
-├── data/          # 📊 Datasets used in the projects
-├── notebooks/     # 📓 Jupyter notebooks with code and analysis
-├── scripts/       # 🐍 Python scripts for data processing and modeling
-├── reports/       # 📑 Generated reports and summaries
-└── README.md      # 📘 Project overview and instructions
+├── iris/                        # 🌸 Contains the Iris dataset
+├── NSE-TATAGLOBAL.csv           # 📈 Stock market dataset for analysis
+├── README.md                    # 📘 Project overview and instructions
+├── Task 1- Iris Flowers Classification.ipynb  # 🌼 ML classification on Iris dataset
+├── Task 2- Stock price prediction.ipynb       # 📊 Stock price prediction project
+└── Task 3- image to pencil.ipynb             # ✏️ Image to pencil sketch conversion
 ```
 
 ## ⚙️ Installation
@@ -50,7 +48,11 @@ Start exploring the projects by running Jupyter notebooks. 🧑‍💻
 jupyter notebook
 ```
 
-Navigate to the `notebooks/` directory and open any notebook to begin your data science journey! 🌟
+Navigate to the respective notebook and explore:
+
+- **Task 1:** Iris Flowers Classification 🌸
+- **Task 2:** Stock Price Prediction 📈
+- **Task 3:** Image to Pencil Sketch ✏️
 
 ## 🤝 Contributing
 
@@ -62,15 +64,11 @@ Contributions are welcome! 💼
 4. Push to the branch: `git push origin feature-branch-name`
 5. Open a Pull Request 🚀
 
-## 📝 License
-
-This project is licensed under the **MIT License**. 📄 See the [LICENSE](LICENSE) file for more details.
-
 ## 📬 Contact
 
 Got questions or suggestions? Reach out to me! 📧
 
 **Varunkumar Dadaji Sonawane**  
-📨 vsonawa23@gmail.com 
+📨 vsonawa23@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
 
