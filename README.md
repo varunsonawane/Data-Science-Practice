@@ -1,3 +1,4 @@
+
 # 📊 Data Science Practice
 
 Welcome to the **Data Science Practice** repository! 🚀 This repo is a collection of hands-on data science projects and exercises designed to sharpen your skills in data analysis, machine learning, and statistical modeling.
